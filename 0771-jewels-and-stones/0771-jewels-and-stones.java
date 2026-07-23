@@ -3,19 +3,22 @@ import java.util.Set;
 
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
+      Set <Character> set = new HashSet<>();
 
-        Set<Character> set = new HashSet<>(); 
+      for(int i=0;i<jewels.length();i++){
+          set.add(jewels.charAt(i));
+      }
 
-        for(int i=0;i<jewels.length();i++){
-            set.add(jewels.charAt(i));
-        }
+      int count = 0;
 
-        int count = 0;
-
-        for(int j=0;j<stones.length();j++){
-            if(set.contains(stones.charAt(j)))
+      for(int i=0;i<stones.length();i++){
+        if(set.contains(stones.charAt(i))){
             count++;
         }
-        return count;
+    
+    }
+    
+    return count;
+    
     }
 }
