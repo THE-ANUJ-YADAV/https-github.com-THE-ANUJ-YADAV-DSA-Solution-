@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -125,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
