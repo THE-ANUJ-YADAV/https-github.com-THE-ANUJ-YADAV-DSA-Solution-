@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0724-find-pivot-index) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
