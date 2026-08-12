@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2315-count-asterisks](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/2315-count-asterisks) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0042-trapping-rain-water) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
