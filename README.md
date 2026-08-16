@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/1480-running-sum-of-1d-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
