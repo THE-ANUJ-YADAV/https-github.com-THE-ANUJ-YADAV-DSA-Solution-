@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/THE-ANUJ-YADAV/https-github.com-THE-ANUJ-YADAV-DSA-Solution-/tree/master/1832-check-if-the-sentence-is-pangram) |
