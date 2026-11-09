@@ -1,5 +1,7 @@
 class Solution {
     public int maxAbsoluteSum(int[] nums) {
+
+        if(nums==null) return 0;
         int currMax = 0;
         int maxSum = 0;
 
